@@ -1,0 +1,1 @@
+{"version":3,"file":"variable.css","sources":["variable.scss"],"sourcesContent":["//    colors   //\n$primaryColor: #445162;  \n$secondaryColor: #fff; \n$tertiaryColor: #f5f5f5;\t\n\n\n$black: #000;\n$white: #fff;\n$gray: #999;\n\n\n//  font_size  // \n\n$big: 30px;\n$normal: 16px;\n$little: 14px;\n"],"names":[],"mappings":""}
